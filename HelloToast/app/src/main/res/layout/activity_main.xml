@@ -41,7 +41,7 @@
         android:layout_height="0dp"
         android:layout_marginTop="74dp"
         android:gravity="center"
-        android:text=""
+        android:text="0"
         android:textAlignment="center"
         android:textSize="160sp"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
