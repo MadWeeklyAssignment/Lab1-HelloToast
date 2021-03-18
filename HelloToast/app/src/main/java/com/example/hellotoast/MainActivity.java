@@ -11,4 +11,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public void showToast(View view) {
+    }
+
+    public void countUp(View view) {
+    }
 }
